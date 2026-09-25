@@ -1,132 +1,235 @@
-<!--
-<h2 align="left">Hi 👋! My name is Akmal and I'm a Flutter developer</h2>
+# Hi, I'm Akmal 👋
 
-###
+**IT Manager • Software Engineer • Healthcare Digital Transformation**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+I work at the intersection of **software engineering, healthcare systems, infrastructure, data, and digital transformation**.
 
-###
+My experience spans building and maintaining applications, integrating systems through APIs, managing production infrastructure, analyzing operational data, and supporting digital transformation initiatives in healthcare environments.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-</div>
+I enjoy turning operational problems into practical digital solutions — from web and mobile applications to dashboards, integrations, automation, and infrastructure.
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <a href="https://google.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 👨‍💻 About Me
 
-### -->
-<h2> Hey there 👋! I'm Akmal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+- 🏥 Working in **Healthcare IT & Digital Transformation**
+- 💻 Building **Web, Mobile, Backend, and Internal Business Applications**
+- 🔗 Working with **API & System Integration**
+- 📊 Interested in **Data Analytics, Dashboards, and Decision Support Systems**
+- 🐳 Managing applications and infrastructure using **Docker, Linux, Nginx, and MySQL**
+- 📱 Experienced in **Flutter development with BLoC / Cubit and Clean Architecture**
+- 🌐 Currently focusing on modern web development with **Next.js, TypeScript, Laravel, and related technologies**
+- 🚀 Interested in software architecture, DevOps, system reliability, automation, and scalable application development
 
-<h3> 👨🏻‍💻 About Me </h3>
+---
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Flutter developer, Java developer and back-end developer.
-- 🌱 &nbsp; Enthusiast in Softwere, Artificial Intelligence and Cyber Security .
-- ✍️ &nbsp; Trying out the latest software development trends as a hobby/side job.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+## 🏥 Healthcare Technology
 
-<h3>🛠 Tech Stack</h3>
+A significant part of my work focuses on technology in healthcare environments.
 
-<div align="left">
-  <h4>- 🌐 Languages </h4>  &nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-<div align="left">
-  <h4>- 💻 Frameworks </h4>  &nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-<div align="left">
-  <h4>- 🛢 Databases </h4>  &nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo"  />
-</div>
-<div align="left">
-  <h4>- 🔧 Tools </h4>  &nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="30" alt="graphql logo"  />
-</div>
-<div align="left">
-  <h4>- 🖥 Desain </h4>  &nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
-</div>
+Some areas I work with include:
 
-<h3> 🤝🏻 Connect with Me </h3>
+- Hospital Information Systems
+- Healthcare Application Integration
+- Operational Dashboards
+- Management Information Systems
+- Data Integration & Reporting
+- Queue & Registration Digitalization
+- Internal Business Applications
+- Infrastructure & Server Management
+- Digital Workflow Improvement
+- Healthcare Digital Transformation
 
-<p align="center">
-<!-- &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  -->
-&nbsp; <a href="https://www.instagram.com/nanda.akmal_cilacap/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/nandakhoirulakmal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:nandaakmal40@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+Many production projects I work on are private due to organizational and data confidentiality.
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
-<!--
-**unustudents/unustudents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 Engineering Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development
+
+`Next.js` `TypeScript` `React` `Laravel` `PHP` `Livewire` `Filament`
+
+Building modern web applications, internal systems, dashboards, and administrative platforms.
+
+---
+
+### Mobile Development
+
+`Flutter` `Dart` `BLoC` `Cubit` `Clean Architecture`
+
+Experience building mobile applications with structured state management and maintainable architecture.
+
+---
+
+### Backend & Integration
+
+`REST API` `PHP` `Node.js` `FastAPI` `Prisma`
+
+Designing backend services, APIs, authentication flows, database integrations, and communication between systems.
+
+---
+
+### Database & Data
+
+`MySQL` `MariaDB` `PostgreSQL` `Firebase` `Supabase`
+
+Working with relational databases, data modeling, application data, reporting, and operational analytics.
+
+---
+
+### Infrastructure & DevOps
+
+`Linux` `Docker` `Nginx` `GitHub Actions` `Git`
+
+Deploying, maintaining, troubleshooting, and managing applications in production and staging environments.
+
+---
+
+## 🚀 Selected Engineering Work
+
+### 🏥 Healthcare Digital Transformation
+
+Designing and implementing digital solutions to improve hospital operations, management visibility, and decision-making.
+
+Areas include:
+
+- Daily operational dashboards
+- Revenue monitoring
+- Registration and queue digitalization
+- Business workflow digitalization
+- Management reporting
+- System integration
+
+> Source code and operational data for these systems are private due to organizational confidentiality.
+
+---
+
+### 🔗 System & API Integration
+
+Working on integration between internal applications and external or hospital systems using APIs.
+
+Typical concerns include:
+
+- Authentication
+- Data synchronization
+- API security
+- Error handling
+- Data validation
+- Integration reliability
+
+---
+
+### 🐳 Production Application Infrastructure
+
+Maintaining and troubleshooting production environments built with technologies such as:
+
+```text
+Linux
+Docker
+Nginx
+PHP-FPM / Node.js
+MySQL
+```
+
+Responsibilities include application deployment, container configuration, web server configuration, database connectivity, debugging, and production issue investigation.
+
+---
+
+### 📊 Data & Management Dashboards
+
+Developing and supporting dashboards designed to transform operational data into information that can be used by management for faster decision-making.
+
+Focus areas include:
+
+- Operational KPIs
+- Performance monitoring
+- Daily management reporting
+- Early warning indicators
+- Data visualization
+
+---
+
+## 🛠 Current Technology Stack
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🧠 Engineering Principles
+
+I value:
+
+- Clean and maintainable code
+- Practical architecture
+- Clear separation of concerns
+- Reusable components
+- Documentation
+- Security
+- Reliability
+- Performance
+- Automation
+- Continuous learning
+
+I believe technology should solve real operational problems — not simply add complexity.
+
+---
+
+## 📌 Featured Projects
+
+Some of my professional projects are private, but I use this GitHub profile to share selected public projects, experiments, technical case studies, and engineering work.
+
+I am gradually documenting more of my production experience through architecture notes and case studies while keeping organizational data and source code confidential.
+
+---
+
+## 📈 Currently Exploring
+
+- Modern Next.js Architecture
+- Application Performance
+- API Integration
+- DevOps & CI/CD
+- Infrastructure Automation
+- Healthcare System Integration
+- AI-assisted Software Development
+- Data-driven Management Systems
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+**Software Engineering • Healthcare IT • Digital Transformation • Web Development • Mobile Development • System Integration • Infrastructure**
+
+Feel free to explore my repositories and projects.
